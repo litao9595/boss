@@ -1,5 +1,4 @@
-// const hot="http://118.122.224.176:8085/";//南充
-const hot="http://171.211.195.164:8085/";//东坡
+const hot="";//
 const config={
   register:hot+'object-work/a/user/register',//用户注册接口
   registeredCompany:hot+"object-work/a/cpInfo/addCpInfo",//注册公司信息
